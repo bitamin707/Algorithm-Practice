@@ -1,8 +1,10 @@
 package baekjoon;
 
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
+@DisplayName("요세푸스 문제 0")
 public class BOJ11866Test {
 
     @Test

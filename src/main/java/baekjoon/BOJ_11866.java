@@ -4,14 +4,9 @@ import java.io.*;
 import java.util.*;
 
 /**
- * [BOJ 11866] 요세푸스 문제 0
- * https://www.acmicpc.net/problem/11866
- *
- * ▪ 문제 유형: 큐, 자료 구조
- * ▪ 문제 개요:
- *   - N명의 사람이 원을 이루며 앉아 있고, K번째 사람을 제거하는 과정을 반복한다.
- *   - 제거된 순서를 출력한다.
- *
+ * 제목: 요세푸스 문제 0
+ * 난이도: 실버 4
+ * 링크: https://www.acmicpc.net/problem/11866
  */
 
 public class BOJ_11866 {
