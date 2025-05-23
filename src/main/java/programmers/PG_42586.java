@@ -10,33 +10,24 @@ import java.util.*;
 
 public class PG_42586 {
     public int[] solution(int[] progresses, int[] speeds) {
-        Queue<Integer> queue = new LinkedList<>();
         List<Integer> result = new ArrayList<>();
-        int count, index = 0;
+        Queue<Integer> queue = new LinkedList<>();
 
-        for (int i : progresses) {
-            queue.add(i);
+        for (int i = 0; i < progresses.length; i++) {
+            int remaining = (100 - progresses[i]);
+            int day = (int) Math.ceil((double) remaining / speeds[i]);
+            queue.add(day);
         }
 
         while (!queue.isEmpty()) {
-            count = 0;
-            for(int i = index; i < speeds.length; i++) {
-                queue.add(queue.poll() + speeds[i]);
-            }
+            int day = queue.poll();
+            int count = 1;
 
-            while (!queue.isEmpty()) {
-                if(queue.peek() >= 100) {
-                    queue.poll();
-                    count++;
-                    index++;
-                } else {
-                    break;
-                }
+            while (!queue.isEmpty() && queue.peek() <= day) {
+                count++;
+                queue.poll();
             }
-
-            if(count != 0){
-                result.add(count);
-            }
+            result.add(count);
         }
         return result.stream().mapToInt(i -> i).toArray();
     }
