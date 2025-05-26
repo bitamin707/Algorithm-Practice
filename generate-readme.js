@@ -1,7 +1,6 @@
 const fs = require("fs");
 const path = require("path");
 
-// 디렉토리 경로 설정
 const BASE_DIR = "./src";
 const JAVA_DIR = path.join(BASE_DIR, "main", "java");
 const TEST_DIR = path.join(BASE_DIR, "test", "java");
@@ -11,7 +10,7 @@ const PLATFORMS = {
     programmers: "programmers"
 };
 
-// 정규식: Javadoc 스타일 주석 파싱
+// Javadoc 주석 파싱용 정규식
 const JAVADOC_TITLE = /\*\s*제목\s*[:：]\s*(.+)/;
 const JAVADOC_DIFFICULTY = /\*\s*난이도\s*[:：]\s*(.+)/;
 const JAVADOC_LINK = /\*\s*링크\s*[:：]\s*(.+)/;
@@ -24,20 +23,37 @@ const headers = {
 |--------|------|------|--------|---|`
 };
 
-// 난이도 우선 순위 정렬
-const DIFFICULTY_ORDER = {
-    "Level 5": 5,
-    "Level 4": 4,
-    "Level 3": 3,
-    "Level 2": 2,
-    "Level 1": 1,
+// 백준 난이도 계층
+const BOJ_DIFFICULTY_TIER = {
     "플래티넘": 5,
     "골드": 4,
     "실버": 3,
     "브론즈": 2,
+    "언랭크": 1,
     "❓": 0
 };
 
+// 난이도 정렬 키 추출
+function parseDifficulty(difficultyStr, platform) {
+    if (platform === "programmers") {
+        const levelMatch = difficultyStr.match(/Level\s*(\d+)/i);
+        return {
+            tier: 1,
+            level: parseInt(levelMatch?.[1] || "0")
+        };
+    }
+
+    // 백준
+    const parts = difficultyStr.trim().split(" ");
+    const main = parts[0];
+    const sub = parseInt(parts[1]) || 0;
+    return {
+        tier: BOJ_DIFFICULTY_TIER[main] || 0,
+        level: sub
+    };
+}
+
+// 테이블 행 생성
 const generateTableRows = (platform) => {
     const dirPath = path.join(JAVA_DIR, platform);
     const testDirPath = path.join(TEST_DIR, platform);
@@ -53,7 +69,8 @@ const generateTableRows = (platform) => {
         const problemLink = (content.match(JAVADOC_LINK) || [])[1] || "#";
 
         const fileName = path.basename(file, ".java");
-        const id = fileName.match(/\d+/)?.[0] || "";
+        const idMatch = fileName.match(/\d+/);
+        const id = idMatch ? idMatch[0] : "";
         const testFileName = fileName.replace("_", "") + "Test.java";
         const testFilePath = path.join(testDirPath, testFileName);
 
@@ -63,23 +80,48 @@ const generateTableRows = (platform) => {
             : "❌";
         const link = `[문제 링크](${problemLink})`;
 
+        const difficultySortKey = parseDifficulty(difficulty, platform);
+
+        const row = {
+            difficulty,
+            difficultySortKey,
+            id,
+            title,
+            codeLink,
+            testLink,
+            link
+        };
+
+        rows.push(row);
+    });
+
+    // 정렬: 플랫폼별 분리 기준
+    rows.sort((a, b) => {
+        const aDiff = a.difficultySortKey;
+        const bDiff = b.difficultySortKey;
+
+        if (platform === "programmers") {
+            return bDiff.level - aDiff.level;
+        }
+
+        if (aDiff.tier !== bDiff.tier) {
+            return bDiff.tier - aDiff.tier;
+        }
+        return aDiff.level - bDiff.level;
+    });
+
+    const formattedRows = rows.map(row => {
         if (platform === "baekjoon") {
-            rows.push([difficulty, id, title, codeLink, testLink, link]);
+            return `| ${row.difficulty} | ${row.id} | ${row.title} | ${row.codeLink} | ${row.testLink} | ${row.link} |`;
         } else {
-            rows.push([difficulty, title, codeLink, testLink, link]);
+            return `| ${row.difficulty} | ${row.title} | ${row.codeLink} | ${row.testLink} | ${row.link} |`;
         }
     });
 
-    // 난이도 내림차순 정렬
-    rows.sort((a, b) => {
-        const aVal = DIFFICULTY_ORDER[a[0].split(" ")[0]] || 0;
-        const bVal = DIFFICULTY_ORDER[b[0].split(" ")[0]] || 0;
-        return bVal - aVal;
-    });
-
-    return [headers[platform], ...rows.map(r => `| ${r.join(" | ")} |`)].join("\n");
+    return [headers[platform], ...formattedRows].join("\n");
 };
 
+// README.md 생성
 const generateReadme = () => {
     const intro = `# 알고리즘 문제 풀이 저장소 (Java + JUnit)
 📘 백준(BOJ), 프로그래머스(Programmers) 등에서 푼 알고리즘 문제를 기록합니다.
