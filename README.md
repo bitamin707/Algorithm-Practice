@@ -22,5 +22,6 @@
 
 | 난이도 | 제목 | 코드 | 테스트 | 링크 |
 |--------|------|------|--------|---|
+| Level 2 | 주식가격 | [코드](./src/main/java/programmers/PG_42584.java) | [테스트](./src/test/java/programmers/PG42584Test.java) | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42584) |
 | Level 2 | 기능개발 | [코드](./src/main/java/programmers/PG_42586.java) | [테스트](./src/test/java/programmers/PG42586Test.java) | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42586) |
 | Level 1 | 같은 숫자는 싫어 | [코드](./src/main/java/programmers/PG_12906.java) | [테스트](./src/test/java/programmers/PG12906Test.java) | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12906) |

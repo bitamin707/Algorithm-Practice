@@ -25,6 +25,7 @@ import java.util.*;
  *      - 문서가 출력될 때 targetIndex == 0 이면 내가 궁금한 문서가 출력된 것으로
  *      - 출력 순서인 printCount를 반환
  */
+
 public class BOJ_1966 {
     public static int solve(int n, int m, int[] importanceArray) {
         Queue<Integer> queue = new LinkedList<>();
