@@ -13,6 +13,7 @@
 | 난이도 | 문제 번호 | 제목 | 코드 | 테스트 | 링크 |
 |--------|-----------|------|------|--------|---|
 | 실버 4 | 11866 | 요세푸스 문제 0 | [코드](./src/main/java/baekjoon/BOJ_11866.java) | [테스트](./src/test/java/baekjoon/BOJ11866Test.java) | [문제 링크](https://www.acmicpc.net/problem/11866) |
+| 실버 3 | 1966 | 프린터 큐 | [코드](./src/main/java/baekjoon/BOJ_1966.java) | [테스트](./src/test/java/baekjoon/BOJ1966Test.java) | [문제 링크](https://www.acmicpc.net/problem/1966) |
 | 실버 4 | 2164 | 카드2 | [코드](./src/main/java/baekjoon/BOJ_2164.java) | [테스트](./src/test/java/baekjoon/BOJ2164Test.java) | [문제 링크](https://www.acmicpc.net/problem/2164) |
 
 
