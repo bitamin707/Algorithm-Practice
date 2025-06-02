@@ -1,8 +1,11 @@
 package programmers;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
+
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
+@DisplayName("주식가격")
 public class PG42584Test {
 
     @Test

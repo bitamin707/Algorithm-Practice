@@ -1,5 +1,6 @@
 package baekjoon;
 
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import java.io.IOException;
@@ -7,6 +8,7 @@ import java.io.IOException;
 import static baekjoon.BOJ_10816.solve;
 import static org.junit.jupiter.api.Assertions.*;
 
+@DisplayName("숫자 카드 2")
 class BOJ10816Test {
 
     @Test

@@ -1,8 +1,10 @@
 package programmers;
 
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
+@DisplayName("크레인 인형뽑기 게임")
 class PG64061Test {
     PG_64061 solver = new PG_64061();
 
