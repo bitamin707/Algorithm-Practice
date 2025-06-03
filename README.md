@@ -25,6 +25,7 @@
 
 | 난이도 | 제목 | 코드 | 테스트 | 링크 |
 |--------|------|------|--------|---|
+| Level 3 | 이중우선순위큐 | [코드](./src/main/java/programmers/PG_42628.java) | [테스트](./src/test/java/programmers/PG42628Test.java) | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42628) |
 | Level 2 | 주식가격 | [코드](./src/main/java/programmers/PG_42584.java) | [테스트](./src/test/java/programmers/PG42584Test.java) | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42584) |
 | Level 2 | 기능개발 | [코드](./src/main/java/programmers/PG_42586.java) | [테스트](./src/test/java/programmers/PG42586Test.java) | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42586) |
 | Level 2 | 더 맵게 | [코드](./src/main/java/programmers/PG_42626.java) | [테스트](./src/test/java/programmers/PG42626Test.java) | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42626) |
