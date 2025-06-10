@@ -20,6 +20,7 @@
 | 실버 4 | 10866 | 덱 | [코드](./src/main/java/baekjoon/BOJ_10866.java) | [테스트](./src/test/java/baekjoon/BOJ10866Test.java) | [문제 링크](https://www.acmicpc.net/problem/10866) |
 | 실버 4 | 11866 | 요세푸스 문제 0 | [코드](./src/main/java/baekjoon/BOJ_11866.java) | [테스트](./src/test/java/baekjoon/BOJ11866Test.java) | [문제 링크](https://www.acmicpc.net/problem/11866) |
 | 실버 4 | 2164 | 카드2 | [코드](./src/main/java/baekjoon/BOJ_2164.java) | [테스트](./src/test/java/baekjoon/BOJ2164Test.java) | [문제 링크](https://www.acmicpc.net/problem/2164) |
+| 실버 5 | 11723 | 집합 | [코드](./src/main/java/baekjoon/BOJ_11723.java) | [테스트](./src/test/java/baekjoon/BOJ11723Test.java) | [문제 링크](https://www.acmicpc.net/problem/11723) |
 | 브론즈 1 | 14626 | ISBN | [코드](./src/main/java/baekjoon/BOJ_14626.java) | [테스트](./src/test/java/baekjoon/BOJ14626Test.java) | [문제 링크](https://www.acmicpc.net/problem/14626) |
 
 
