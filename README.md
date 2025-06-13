@@ -12,6 +12,7 @@
 
 | 난이도 | 문제 번호 | 제목 | 코드 | 테스트 | 링크 |
 |--------|-----------|------|------|--------|---|
+| 실버 2 | 11724 | 연결 요소의 개수 | [코드](./src/main/java/baekjoon/BOJ_11724.java) | [테스트](./src/test/java/baekjoon/BOJ11724Test.java) | [문제 링크](https://www.acmicpc.net/problem/11724) |
 | 실버 2 | 1260 | DFS와 BFS | [코드](./src/main/java/baekjoon/BOJ_1260.java) | [테스트](./src/test/java/baekjoon/BOJ1260Test.java) | [문제 링크](https://www.acmicpc.net/problem/1260) |
 | 실버 2 | 1874 | 스택 수열 | [코드](./src/main/java/baekjoon/BOJ_1874.java) | [테스트](./src/test/java/baekjoon/BOJ1874Test.java) | [문제 링크](https://www.acmicpc.net/problem/1874) |
 | 실버 2 | 18870 | 좌표 압축 | [코드](./src/main/java/baekjoon/BOJ_18870.java) | [테스트](./src/test/java/baekjoon/BOJ18870Test.java) | [문제 링크](https://www.acmicpc.net/problem/18870) |
