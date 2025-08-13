@@ -21,6 +21,7 @@
 | 실버 4 | 10816 | 숫자 카드 2 | [코드](./src/main/java/baekjoon/BOJ_10816.java) | [테스트](./src/test/java/baekjoon/BOJ10816Test.java) | [문제 링크](https://www.acmicpc.net/problem/10816) |
 | 실버 4 | 10866 | 덱 | [코드](./src/main/java/baekjoon/BOJ_10866.java) | [테스트](./src/test/java/baekjoon/BOJ10866Test.java) | [문제 링크](https://www.acmicpc.net/problem/10866) |
 | 실버 4 | 11047 | 동전 0 | [코드](./src/main/java/baekjoon/BOJ_11047.java) | [테스트](./src/test/java/baekjoon/BOJ11047Test.java) | [문제 링크](https://www.acmicpc.net/problem/11047) |
+| 실버 4 | 11399 | ATM | [코드](./src/main/java/baekjoon/BOJ_11399.java) | [테스트](./src/test/java/baekjoon/BOJ11399Test.java) | [문제 링크](https://www.acmicpc.net/problem/11399) |
 | 실버 4 | 11866 | 요세푸스 문제 0 | [코드](./src/main/java/baekjoon/BOJ_11866.java) | [테스트](./src/test/java/baekjoon/BOJ11866Test.java) | [문제 링크](https://www.acmicpc.net/problem/11866) |
 | 실버 4 | 1620 | 나는야 포켓몬 마스터 이다솜 | [코드](./src/main/java/baekjoon/BOJ_1620.java) | [테스트](./src/test/java/baekjoon/BOJ1620Test.java) | [문제 링크](https://www.acmicpc.net/problem/1620) |
 | 실버 4 | 1764 | 듣보잡 | [코드](./src/main/java/baekjoon/BOJ_1764.java) | [테스트](./src/test/java/baekjoon/BOJ1764Test.java) | [문제 링크](https://www.acmicpc.net/problem/1764) |
