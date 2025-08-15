@@ -19,6 +19,7 @@
 | 실버 3 | 1003 | 피보나치 함수 | [코드](./src/main/java/baekjoon/BOJ_1003.java) | [테스트](./src/test/java/baekjoon/BOJ1003Test.java) | [문제 링크](https://www.acmicpc.net/problem/1003) |
 | 실버 3 | 1463 | 1로 만들기 | [코드](./src/main/java/baekjoon/BOJ_1463.java) | [테스트](./src/test/java/baekjoon/BOJ1463Test.java) | [문제 링크](https://www.acmicpc.net/problem/1463) |
 | 실버 3 | 1966 | 프린터 큐 | [코드](./src/main/java/baekjoon/BOJ_1966.java) | [테스트](./src/test/java/baekjoon/BOJ1966Test.java) | [문제 링크](https://www.acmicpc.net/problem/1966) |
+| 실버 3 | 2579 | 계단 오르기 | [코드](./src/main/java/baekjoon/BOJ_2579.java) | [테스트](./src/test/java/baekjoon/BOJ2579Test.java) | [문제 링크](https://www.acmicpc.net/problem/2579) |
 | 실버 4 | 1018 | 체스판 다시 칠하기 | [코드](./src/main/java/baekjoon/BOJ_1018.java) | [테스트](./src/test/java/baekjoon/BOJ1018Test.java) | [문제 링크](https://www.acmicpc.net/problem/1018) |
 | 실버 4 | 10816 | 숫자 카드 2 | [코드](./src/main/java/baekjoon/BOJ_10816.java) | [테스트](./src/test/java/baekjoon/BOJ10816Test.java) | [문제 링크](https://www.acmicpc.net/problem/10816) |
 | 실버 4 | 10866 | 덱 | [코드](./src/main/java/baekjoon/BOJ_10866.java) | [테스트](./src/test/java/baekjoon/BOJ10866Test.java) | [문제 링크](https://www.acmicpc.net/problem/10866) |
