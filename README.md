@@ -12,6 +12,7 @@
 
 | 난이도 | 문제 번호 | 제목 | 코드 | 테스트 | 링크 |
 |--------|-----------|------|------|--------|---|
+| 실버 1 | 1080 | 행렬 | [코드](./src/main/java/baekjoon/BOJ_1080.java) | [테스트](./src/test/java/baekjoon/BOJ1080Test.java) | [문제 링크](https://www.acmicpc.net/problem/1080) |
 | 실버 1 | 11286 | 절댓값 힙 | [코드](./src/main/java/baekjoon/BOJ_11286.java) | [테스트](./src/test/java/baekjoon/BOJ11286Test.java) | [문제 링크](https://www.acmicpc.net/problem/11286) |
 | 실버 2 | 11724 | 연결 요소의 개수 | [코드](./src/main/java/baekjoon/BOJ_11724.java) | [테스트](./src/test/java/baekjoon/BOJ11724Test.java) | [문제 링크](https://www.acmicpc.net/problem/11724) |
 | 실버 2 | 1260 | DFS와 BFS | [코드](./src/main/java/baekjoon/BOJ_1260.java) | [테스트](./src/test/java/baekjoon/BOJ1260Test.java) | [문제 링크](https://www.acmicpc.net/problem/1260) |
