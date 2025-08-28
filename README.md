@@ -27,6 +27,7 @@
 | 실버 3 | 2579 | 계단 오르기 | [코드](./src/main/java/baekjoon/BOJ_2579.java) | [테스트](./src/test/java/baekjoon/BOJ2579Test.java) | [문제 링크](https://www.acmicpc.net/problem/2579) |
 | 실버 3 | 2606 | 바이러스 | [코드](./src/main/java/baekjoon/BOJ_2606.java) | [테스트](./src/test/java/baekjoon/BOJ2606Test.java) | [문제 링크](https://www.acmicpc.net/problem/2606) |
 | 실버 3 | 9095 | 1, 2, 3 더하기 | [코드](./src/main/java/baekjoon/BOJ_9095.java) | [테스트](./src/test/java/baekjoon/BOJ9095Test.java) | [문제 링크](https://www.acmicpc.net/problem/9095) |
+| 실버 3 | 9375 | 패션왕 신해빈 | [코드](./src/main/java/baekjoon/BOJ_9375.java) | [테스트](./src/test/java/baekjoon/BOJ9375Test.java) | [문제 링크](https://www.acmicpc.net/problem/9375) |
 | 실버 3 | 9461 | 파도반 수열 | [코드](./src/main/java/baekjoon/BOJ_9461.java) | [테스트](./src/test/java/baekjoon/BOJ9461Test.java) | [문제 링크](https://www.acmicpc.net/problem/9461) |
 | 실버 4 | 1018 | 체스판 다시 칠하기 | [코드](./src/main/java/baekjoon/BOJ_1018.java) | [테스트](./src/test/java/baekjoon/BOJ1018Test.java) | [문제 링크](https://www.acmicpc.net/problem/1018) |
 | 실버 4 | 10816 | 숫자 카드 2 | [코드](./src/main/java/baekjoon/BOJ_10816.java) | [테스트](./src/test/java/baekjoon/BOJ10816Test.java) | [문제 링크](https://www.acmicpc.net/problem/10816) |
