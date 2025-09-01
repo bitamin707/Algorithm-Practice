@@ -23,6 +23,7 @@
 | 실버 2 | 18870 | 좌표 압축 | [코드](./src/main/java/baekjoon/BOJ_18870.java) | [테스트](./src/test/java/baekjoon/BOJ18870Test.java) | [문제 링크](https://www.acmicpc.net/problem/18870) |
 | 실버 3 | 1003 | 피보나치 함수 | [코드](./src/main/java/baekjoon/BOJ_1003.java) | [테스트](./src/test/java/baekjoon/BOJ1003Test.java) | [문제 링크](https://www.acmicpc.net/problem/1003) |
 | 실버 3 | 11659 | 구간 합 구하기 4 | [코드](./src/main/java/baekjoon/BOJ_11659.java) | [테스트](./src/test/java/baekjoon/BOJ11659Test.java) | [문제 링크](https://www.acmicpc.net/problem/11659) |
+| 실버 3 | 11726 | 2×n 타일링 | [코드](./src/main/java/baekjoon/BOJ_11726.java) | [테스트](./src/test/java/baekjoon/BOJ11726Test.java) | [문제 링크](https://www.acmicpc.net/problem/11726) |
 | 실버 3 | 1463 | 1로 만들기 | [코드](./src/main/java/baekjoon/BOJ_1463.java) | [테스트](./src/test/java/baekjoon/BOJ1463Test.java) | [문제 링크](https://www.acmicpc.net/problem/1463) |
 | 실버 3 | 1966 | 프린터 큐 | [코드](./src/main/java/baekjoon/BOJ_1966.java) | [테스트](./src/test/java/baekjoon/BOJ1966Test.java) | [문제 링크](https://www.acmicpc.net/problem/1966) |
 | 실버 3 | 2579 | 계단 오르기 | [코드](./src/main/java/baekjoon/BOJ_2579.java) | [테스트](./src/test/java/baekjoon/BOJ2579Test.java) | [문제 링크](https://www.acmicpc.net/problem/2579) |
