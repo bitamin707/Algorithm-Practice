@@ -51,6 +51,7 @@
 | 브론즈 1 | 14626 | ISBN | [코드](./src/main/java/baekjoon/BOJ_14626.java) | [테스트](./src/test/java/baekjoon/BOJ14626Test.java) | [문제 링크](https://www.acmicpc.net/problem/14626) |
 | 브론즈 2 | 2309 | 일곱 난쟁이 | [코드](./src/main/java/baekjoon/BOJ_2309.java) | [테스트](./src/test/java/baekjoon/BOJ2309Test.java) | [문제 링크](https://www.acmicpc.net/problem/2309) |
 | 브론즈 2 | 2750 | 수 정렬하기 | [코드](./src/main/java/baekjoon/BOJ_2750.java) | [테스트](./src/test/java/baekjoon/BOJ2750Test.java) | [문제 링크](https://www.acmicpc.net/problem/2750) |
+| ❓ | 2630 | 제목 없음 | [코드](./src/main/java/baekjoon/BOJ_2630.java) | [테스트](./src/test/java/baekjoon/BOJ2630Test.java) | [문제 링크](#) |
 
 
 
