@@ -24,6 +24,7 @@
 | 실버 2 | 17626 | Four Squares | [코드](./src/main/java/baekjoon/BOJ_17626.java) | [테스트](./src/test/java/baekjoon/BOJ17626Test.java) | [문제 링크](https://www.acmicpc.net/problem/17626) |
 | 실버 2 | 1874 | 스택 수열 | [코드](./src/main/java/baekjoon/BOJ_1874.java) | [테스트](./src/test/java/baekjoon/BOJ1874Test.java) | [문제 링크](https://www.acmicpc.net/problem/1874) |
 | 실버 2 | 18870 | 좌표 압축 | [코드](./src/main/java/baekjoon/BOJ_18870.java) | [테스트](./src/test/java/baekjoon/BOJ18870Test.java) | [문제 링크](https://www.acmicpc.net/problem/18870) |
+| 실버 2 | 1927 | 최소 힙 | [코드](./src/main/java/baekjoon/BOJ_1927.java) | [테스트](./src/test/java/baekjoon/BOJ1927Test.java) | [문제 링크](https://www.acmicpc.net/problem/1927) |
 | 실버 3 | 1003 | 피보나치 함수 | [코드](./src/main/java/baekjoon/BOJ_1003.java) | [테스트](./src/test/java/baekjoon/BOJ1003Test.java) | [문제 링크](https://www.acmicpc.net/problem/1003) |
 | 실버 3 | 11659 | 구간 합 구하기 4 | [코드](./src/main/java/baekjoon/BOJ_11659.java) | [테스트](./src/test/java/baekjoon/BOJ11659Test.java) | [문제 링크](https://www.acmicpc.net/problem/11659) |
 | 실버 3 | 11726 | 2×n 타일링 | [코드](./src/main/java/baekjoon/BOJ_11726.java) | [테스트](./src/test/java/baekjoon/BOJ11726Test.java) | [문제 링크](https://www.acmicpc.net/problem/11726) |
