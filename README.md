@@ -30,6 +30,7 @@
 | 실버 2 | 21736 | 헌내기는 친구가 필요해 | [코드](./src/main/java/baekjoon/BOJ_21736.java) | [테스트](./src/test/java/baekjoon/BOJ21736Test.java) | [문제 링크](https://www.acmicpc.net/problem/21736) |
 | 실버 2 | 2630 | 색종이 만들기 | [코드](./src/main/java/baekjoon/BOJ_2630.java) | [테스트](./src/test/java/baekjoon/BOJ2630Test.java) | [문제 링크](https://www.acmicpc.net/problem/2630) |
 | 실버 2 | 2805 | 나무 자르기 | [코드](./src/main/java/baekjoon/BOJ_2805.java) | [테스트](./src/test/java/baekjoon/BOJ2805Test.java) | [문제 링크](https://www.acmicpc.net/problem/2805) |
+| 실버 2 | 30804 | 과일 탕후루 | [코드](./src/main/java/baekjoon/BOJ_30804.java) | [테스트](./src/test/java/baekjoon/BOJ30804Test.java) | [문제 링크](https://www.acmicpc.net/problem/30804) |
 | 실버 3 | 1003 | 피보나치 함수 | [코드](./src/main/java/baekjoon/BOJ_1003.java) | [테스트](./src/test/java/baekjoon/BOJ1003Test.java) | [문제 링크](https://www.acmicpc.net/problem/1003) |
 | 실버 3 | 11659 | 구간 합 구하기 4 | [코드](./src/main/java/baekjoon/BOJ_11659.java) | [테스트](./src/test/java/baekjoon/BOJ11659Test.java) | [문제 링크](https://www.acmicpc.net/problem/11659) |
 | 실버 3 | 11726 | 2×n 타일링 | [코드](./src/main/java/baekjoon/BOJ_11726.java) | [테스트](./src/test/java/baekjoon/BOJ11726Test.java) | [문제 링크](https://www.acmicpc.net/problem/11726) |
