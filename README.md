@@ -27,6 +27,7 @@
 | 실버 2 | 1874 | 스택 수열 | [코드](./src/main/java/baekjoon/BOJ_1874.java) | [테스트](./src/test/java/baekjoon/BOJ1874Test.java) | [문제 링크](https://www.acmicpc.net/problem/1874) |
 | 실버 2 | 18870 | 좌표 압축 | [코드](./src/main/java/baekjoon/BOJ_18870.java) | [테스트](./src/test/java/baekjoon/BOJ18870Test.java) | [문제 링크](https://www.acmicpc.net/problem/18870) |
 | 실버 2 | 1927 | 최소 힙 | [코드](./src/main/java/baekjoon/BOJ_1927.java) | [테스트](./src/test/java/baekjoon/BOJ1927Test.java) | [문제 링크](https://www.acmicpc.net/problem/1927) |
+| 실버 2 | 21736 | 헌내기는 친구가 필요해 | [코드](./src/main/java/baekjoon/BOJ_21736.java) | [테스트](./src/test/java/baekjoon/BOJ21736Test.java) | [문제 링크](https://www.acmicpc.net/problem/21736) |
 | 실버 2 | 2630 | 색종이 만들기 | [코드](./src/main/java/baekjoon/BOJ_2630.java) | [테스트](./src/test/java/baekjoon/BOJ2630Test.java) | [문제 링크](https://www.acmicpc.net/problem/2630) |
 | 실버 2 | 2805 | 나무 자르기 | [코드](./src/main/java/baekjoon/BOJ_2805.java) | [테스트](./src/test/java/baekjoon/BOJ2805Test.java) | [문제 링크](https://www.acmicpc.net/problem/2805) |
 | 실버 3 | 1003 | 피보나치 함수 | [코드](./src/main/java/baekjoon/BOJ_1003.java) | [테스트](./src/test/java/baekjoon/BOJ1003Test.java) | [문제 링크](https://www.acmicpc.net/problem/1003) |
