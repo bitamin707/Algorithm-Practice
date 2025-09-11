@@ -17,6 +17,7 @@
 | 실버 1 | 1389 | 케빈 베이컨의 6단계 법칙 | [코드](./src/main/java/baekjoon/BOJ_1389.java) | [테스트](./src/test/java/baekjoon/BOJ1389Test.java) | [문제 링크](https://www.acmicpc.net/problem/1389) |
 | 실버 1 | 1697 | 숨바꼭질 | [코드](./src/main/java/baekjoon/BOJ_1697.java) | [테스트](./src/test/java/baekjoon/BOJ1697Test.java) | [문제 링크](https://www.acmicpc.net/problem/1697) |
 | 실버 1 | 2178 | 미로 탐색 | [코드](./src/main/java/baekjoon/BOJ_2178.java) | [테스트](./src/test/java/baekjoon/BOJ2178Test.java) | [문제 링크](https://www.acmicpc.net/problem/2178) |
+| 실버 1 | 2667 | 단지번호붙이기 | [코드](./src/main/java/baekjoon/BOJ_2667.java) | [테스트](./src/test/java/baekjoon/BOJ2667Test.java) | [문제 링크](https://www.acmicpc.net/problem/2667) |
 | 실버 2 | 1012 | 유기농 배추 | [코드](./src/main/java/baekjoon/BOJ_1012.java) | [테스트](./src/test/java/baekjoon/BOJ1012Test.java) | [문제 링크](https://www.acmicpc.net/problem/1012) |
 | 실버 2 | 11279 | 최대 힙 | [코드](./src/main/java/baekjoon/BOJ_11279.java) | [테스트](./src/test/java/baekjoon/BOJ11279Test.java) | [문제 링크](https://www.acmicpc.net/problem/11279) |
 | 실버 2 | 11724 | 연결 요소의 개수 | [코드](./src/main/java/baekjoon/BOJ_11724.java) | [테스트](./src/test/java/baekjoon/BOJ11724Test.java) | [문제 링크](https://www.acmicpc.net/problem/11724) |
