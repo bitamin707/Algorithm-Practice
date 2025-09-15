@@ -12,6 +12,7 @@
 
 | 난이도 | 문제 번호 | 제목 | 코드 | 테스트 | 링크 |
 |--------|-----------|------|------|--------|---|
+| 골드 5 | 1931 | 회의실 배정 | [코드](./src/main/java/baekjoon/BOJ_1931.java) | [테스트](./src/test/java/baekjoon/BOJ1931Test.java) | [문제 링크](https://www.acmicpc.net/problem/1931) |
 | 실버 1 | 1074 | Z | [코드](./src/main/java/baekjoon/BOJ_1074.java) | [테스트](./src/test/java/baekjoon/BOJ1074Test.java) | [문제 링크](https://www.acmicpc.net/problem/1074) |
 | 실버 1 | 1080 | 행렬 | [코드](./src/main/java/baekjoon/BOJ_1080.java) | [테스트](./src/test/java/baekjoon/BOJ1080Test.java) | [문제 링크](https://www.acmicpc.net/problem/1080) |
 | 실버 1 | 11286 | 절댓값 힙 | [코드](./src/main/java/baekjoon/BOJ_11286.java) | [테스트](./src/test/java/baekjoon/BOJ11286Test.java) | [문제 링크](https://www.acmicpc.net/problem/11286) |
