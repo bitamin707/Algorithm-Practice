@@ -82,3 +82,4 @@
 | Level 2 | 타겟 넘버 | [코드](./src/main/java/programmers/PG_43165.java) | [테스트](./src/test/java/programmers/PG43165Test.java) | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |
 | Level 1 | 같은 숫자는 싫어 | [코드](./src/main/java/programmers/PG_12906.java) | [테스트](./src/test/java/programmers/PG12906Test.java) | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12906) |
 | Level 1 | 크레인 인형뽑기 게임 | [코드](./src/main/java/programmers/PG_64061.java) | [테스트](./src/test/java/programmers/PG64061Test.java) | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/64061) |
+| Level 0 | 두 수의 차 | [코드](./src/main/java/programmers/PG_120803.java) | [테스트](./src/test/java/programmers/PG120803Test.java) | [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120803) |
