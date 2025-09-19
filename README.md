@@ -17,6 +17,7 @@
 | 골드 5 | 5430 | AC | [코드](./src/main/java/baekjoon/BOJ_5430.java) | [테스트](./src/test/java/baekjoon/BOJ5430Test.java) | [문제 링크](https://www.acmicpc.net/problem/5430) |
 | 골드 5 | 7569 | 토마토 | [코드](./src/main/java/baekjoon/BOJ_7569.java) | [테스트](./src/test/java/baekjoon/BOJ7569Test.java) | [문제 링크](https://www.acmicpc.net/problem/7569) |
 | 골드 5 | 7576 | 토마토 | [코드](./src/main/java/baekjoon/BOJ_7576.java) | [테스트](./src/test/java/baekjoon/BOJ7576Test.java) | [문제 링크](https://www.acmicpc.net/problem/7576) |
+| 골드 5 | 7662 | 이중 우선순위 큐 | [코드](./src/main/java/baekjoon/BOJ_7662.java) | [테스트](./src/test/java/baekjoon/BOJ7662Test.java) | [문제 링크](https://www.acmicpc.net/problem/7662) |
 | 실버 1 | 1074 | Z | [코드](./src/main/java/baekjoon/BOJ_1074.java) | [테스트](./src/test/java/baekjoon/BOJ1074Test.java) | [문제 링크](https://www.acmicpc.net/problem/1074) |
 | 실버 1 | 1080 | 행렬 | [코드](./src/main/java/baekjoon/BOJ_1080.java) | [테스트](./src/test/java/baekjoon/BOJ1080Test.java) | [문제 링크](https://www.acmicpc.net/problem/1080) |
 | 실버 1 | 11286 | 절댓값 힙 | [코드](./src/main/java/baekjoon/BOJ_11286.java) | [테스트](./src/test/java/baekjoon/BOJ11286Test.java) | [문제 링크](https://www.acmicpc.net/problem/11286) |
