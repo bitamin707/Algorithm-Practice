@@ -56,6 +56,7 @@
 | 실버 3 | 15649 | N과 M (1) | [코드](./src/main/java/baekjoon/BOJ_15649.java) | [테스트](./src/test/java/baekjoon/BOJ15649Test.java) | [문제 링크](https://www.acmicpc.net/problem/15649) |
 | 실버 3 | 15650 | N과 M (2) | [코드](./src/main/java/baekjoon/BOJ_15650.java) | [테스트](./src/test/java/baekjoon/BOJ15650Test.java) | [문제 링크](https://www.acmicpc.net/problem/15650) |
 | 실버 3 | 15652 | N과 M (4) | [코드](./src/main/java/baekjoon/BOJ_15652.java) | [테스트](./src/test/java/baekjoon/BOJ15652Test.java) | [문제 링크](https://www.acmicpc.net/problem/15652) |
+| 실버 3 | 15654 | N과 M (5) | [코드](./src/main/java/baekjoon/BOJ_15654.java) | [테스트](./src/test/java/baekjoon/BOJ15654Test.java) | [문제 링크](https://www.acmicpc.net/problem/15654) |
 | 실버 3 | 1966 | 프린터 큐 | [코드](./src/main/java/baekjoon/BOJ_1966.java) | [테스트](./src/test/java/baekjoon/BOJ1966Test.java) | [문제 링크](https://www.acmicpc.net/problem/1966) |
 | 실버 3 | 2579 | 계단 오르기 | [코드](./src/main/java/baekjoon/BOJ_2579.java) | [테스트](./src/test/java/baekjoon/BOJ2579Test.java) | [문제 링크](https://www.acmicpc.net/problem/2579) |
 | 실버 3 | 2606 | 바이러스 | [코드](./src/main/java/baekjoon/BOJ_2606.java) | [테스트](./src/test/java/baekjoon/BOJ2606Test.java) | [문제 링크](https://www.acmicpc.net/problem/2606) |
