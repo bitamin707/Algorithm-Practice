@@ -39,6 +39,7 @@
 | 실버 2 | 1260 | DFS와 BFS | [코드](./src/main/java/baekjoon/BOJ_1260.java) | [테스트](./src/test/java/baekjoon/BOJ1260Test.java) | [문제 링크](https://www.acmicpc.net/problem/1260) |
 | 실버 2 | 1406 | 에디터 | [코드](./src/main/java/baekjoon/BOJ_1406.java) | [테스트](./src/test/java/baekjoon/BOJ1406Test.java) | [문제 링크](https://www.acmicpc.net/problem/1406) |
 | 실버 2 | 1541 | 잃어버린 괄호 | [코드](./src/main/java/baekjoon/BOJ_1541.java) | [테스트](./src/test/java/baekjoon/BOJ1541Test.java) | [문제 링크](https://www.acmicpc.net/problem/1541) |
+| 실버 2 | 15663 | N과 M (9) | [코드](./src/main/java/baekjoon/BOJ_15663.java) | [테스트](./src/test/java/baekjoon/BOJ15663Test.java) | [문제 링크](https://www.acmicpc.net/problem/15663) |
 | 실버 2 | 1654 | 랜선 자르기 | [코드](./src/main/java/baekjoon/BOJ_1654.java) | [테스트](./src/test/java/baekjoon/BOJ1654Test.java) | [문제 링크](https://www.acmicpc.net/problem/1654) |
 | 실버 2 | 17626 | Four Squares | [코드](./src/main/java/baekjoon/BOJ_17626.java) | [테스트](./src/test/java/baekjoon/BOJ17626Test.java) | [문제 링크](https://www.acmicpc.net/problem/17626) |
 | 실버 2 | 18111 | 마인크래프트 | [코드](./src/main/java/baekjoon/BOJ_18111.java) | [테스트](./src/test/java/baekjoon/BOJ18111Test.java) | [문제 링크](https://www.acmicpc.net/problem/18111) |
