@@ -42,6 +42,7 @@
 | 실버 2 | 15663 | N과 M (9) | [코드](./src/main/java/baekjoon/BOJ_15663.java) | [테스트](./src/test/java/baekjoon/BOJ15663Test.java) | [문제 링크](https://www.acmicpc.net/problem/15663) |
 | 실버 2 | 15666 | N과 M (12) | [코드](./src/main/java/baekjoon/BOJ_15666.java) | [테스트](./src/test/java/baekjoon/BOJ15666Test.java) | [문제 링크](https://www.acmicpc.net/problem/15666) |
 | 실버 2 | 1654 | 랜선 자르기 | [코드](./src/main/java/baekjoon/BOJ_1654.java) | [테스트](./src/test/java/baekjoon/BOJ1654Test.java) | [문제 링크](https://www.acmicpc.net/problem/1654) |
+| 실버 2 | 16953 | A → B | [코드](./src/main/java/baekjoon/BOJ_16953.java) | [테스트](./src/test/java/baekjoon/BOJ16953Test.java) | [문제 링크](https://www.acmicpc.net/problem/16953) |
 | 실버 2 | 17626 | Four Squares | [코드](./src/main/java/baekjoon/BOJ_17626.java) | [테스트](./src/test/java/baekjoon/BOJ17626Test.java) | [문제 링크](https://www.acmicpc.net/problem/17626) |
 | 실버 2 | 18111 | 마인크래프트 | [코드](./src/main/java/baekjoon/BOJ_18111.java) | [테스트](./src/test/java/baekjoon/BOJ18111Test.java) | [문제 링크](https://www.acmicpc.net/problem/18111) |
 | 실버 2 | 1874 | 스택 수열 | [코드](./src/main/java/baekjoon/BOJ_1874.java) | [테스트](./src/test/java/baekjoon/BOJ1874Test.java) | [문제 링크](https://www.acmicpc.net/problem/1874) |
