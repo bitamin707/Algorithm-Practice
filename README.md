@@ -30,6 +30,7 @@
 | 실버 1 | 14940 | 쉬운 최단거리 | [코드](./src/main/java/baekjoon/BOJ_14940.java) | [테스트](./src/test/java/baekjoon/BOJ14940Test.java) | [문제 링크](https://www.acmicpc.net/problem/14940) |
 | 실버 1 | 1629 | 곱셈 | [코드](./src/main/java/baekjoon/BOJ_1629.java) | [테스트](./src/test/java/baekjoon/BOJ1629Test.java) | [문제 링크](https://www.acmicpc.net/problem/1629) |
 | 실버 1 | 1697 | 숨바꼭질 | [코드](./src/main/java/baekjoon/BOJ_1697.java) | [테스트](./src/test/java/baekjoon/BOJ1697Test.java) | [문제 링크](https://www.acmicpc.net/problem/1697) |
+| 실버 1 | 1932 | 정수 삼각형 | [코드](./src/main/java/baekjoon/BOJ_1932.java) | [테스트](./src/test/java/baekjoon/BOJ1932Test.java) | [문제 링크](https://www.acmicpc.net/problem/1932) |
 | 실버 1 | 2178 | 미로 탐색 | [코드](./src/main/java/baekjoon/BOJ_2178.java) | [테스트](./src/test/java/baekjoon/BOJ2178Test.java) | [문제 링크](https://www.acmicpc.net/problem/2178) |
 | 실버 1 | 2667 | 단지번호붙이기 | [코드](./src/main/java/baekjoon/BOJ_2667.java) | [테스트](./src/test/java/baekjoon/BOJ2667Test.java) | [문제 링크](https://www.acmicpc.net/problem/2667) |
 | 실버 1 | 5525 | IOIOI | [코드](./src/main/java/baekjoon/BOJ_5525.java) | [테스트](./src/test/java/baekjoon/BOJ5525Test.java) | [문제 링크](https://www.acmicpc.net/problem/5525) |
