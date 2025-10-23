@@ -35,6 +35,7 @@
 | 실버 1 | 2178 | 미로 탐색 | [코드](./src/main/java/baekjoon/BOJ_2178.java) | [테스트](./src/test/java/baekjoon/BOJ2178Test.java) | [문제 링크](https://www.acmicpc.net/problem/2178) |
 | 실버 1 | 2667 | 단지번호붙이기 | [코드](./src/main/java/baekjoon/BOJ_2667.java) | [테스트](./src/test/java/baekjoon/BOJ2667Test.java) | [문제 링크](https://www.acmicpc.net/problem/2667) |
 | 실버 1 | 5525 | IOIOI | [코드](./src/main/java/baekjoon/BOJ_5525.java) | [테스트](./src/test/java/baekjoon/BOJ5525Test.java) | [문제 링크](https://www.acmicpc.net/problem/5525) |
+| 실버 1 | 9465 | 스티커 | [코드](./src/main/java/baekjoon/BOJ_9465.java) | [테스트](./src/test/java/baekjoon/BOJ9465Test.java) | [문제 링크](https://www.acmicpc.net/problem/9465) |
 | 실버 2 | 1012 | 유기농 배추 | [코드](./src/main/java/baekjoon/BOJ_1012.java) | [테스트](./src/test/java/baekjoon/BOJ1012Test.java) | [문제 링크](https://www.acmicpc.net/problem/1012) |
 | 실버 2 | 11053 | 가장 긴 증가하는 부분 수열 | [코드](./src/main/java/baekjoon/BOJ_11053.java) | [테스트](./src/test/java/baekjoon/BOJ11053Test.java) | [문제 링크](https://www.acmicpc.net/problem/11053) |
 | 실버 2 | 11279 | 최대 힙 | [코드](./src/main/java/baekjoon/BOJ_11279.java) | [테스트](./src/test/java/baekjoon/BOJ11279Test.java) | [문제 링크](https://www.acmicpc.net/problem/11279) |
