@@ -30,21 +30,21 @@ import java.util.*;
  *      - 후위 순회(Postorder): 왼쪽 → 오른쪽 → 루트
  */
 
-class Node {
-    char value;
-    Node left, right;
-
-    public Node(char value) {
-        this.value = value;
-        this.left = null;
-        this.right = null;
-    }
-}
-
 public class BOJ_1991 {
 
     static StringBuilder sb;
     static Node[] tree;
+
+    static class Node {
+        char value;
+        Node left, right;
+
+        public Node(char value) {
+            this.value = value;
+            this.left = null;
+            this.right = null;
+        }
+    }
 
     public static String solve(String input) throws IOException {
         BufferedReader br = new BufferedReader(new StringReader(input));
