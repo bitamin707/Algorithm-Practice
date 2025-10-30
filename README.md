@@ -18,6 +18,7 @@
 | 골드 5 | 16928 | 뱀과 사다리 게임 | [코드](./src/main/java/baekjoon/BOJ_16928.java) | [테스트](./src/test/java/baekjoon/BOJ16928Test.java) | [문제 링크](https://www.acmicpc.net/problem/16928) |
 | 골드 5 | 1916 | 최소비용 구하기 | [코드](./src/main/java/baekjoon/BOJ_1916.java) | [테스트](./src/test/java/baekjoon/BOJ1916Test.java) | [문제 링크](https://www.acmicpc.net/problem/1916) |
 | 골드 5 | 1931 | 회의실 배정 | [코드](./src/main/java/baekjoon/BOJ_1931.java) | [테스트](./src/test/java/baekjoon/BOJ1931Test.java) | [문제 링크](https://www.acmicpc.net/problem/1931) |
+| 골드 5 | 2096 | 내려가기 | [코드](./src/main/java/baekjoon/BOJ_2096.java) | [테스트](./src/test/java/baekjoon/BOJ2096Test.java) | [문제 링크](https://www.acmicpc.net/problem/2096) |
 | 골드 5 | 5430 | AC | [코드](./src/main/java/baekjoon/BOJ_5430.java) | [테스트](./src/test/java/baekjoon/BOJ5430Test.java) | [문제 링크](https://www.acmicpc.net/problem/5430) |
 | 골드 5 | 7569 | 토마토 | [코드](./src/main/java/baekjoon/BOJ_7569.java) | [테스트](./src/test/java/baekjoon/BOJ7569Test.java) | [문제 링크](https://www.acmicpc.net/problem/7569) |
 | 골드 5 | 7576 | 토마토 | [코드](./src/main/java/baekjoon/BOJ_7576.java) | [테스트](./src/test/java/baekjoon/BOJ7576Test.java) | [문제 링크](https://www.acmicpc.net/problem/7576) |
