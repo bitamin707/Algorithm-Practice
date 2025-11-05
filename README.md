@@ -15,6 +15,7 @@
 | 골드 4 | 14500 | 테트로미노 | [코드](./src/main/java/baekjoon/BOJ_14500.java) | [테스트](./src/test/java/baekjoon/BOJ14500Test.java) | [문제 링크](https://www.acmicpc.net/problem/14500) |
 | 골드 4 | 9019 | DSLR | [코드](./src/main/java/baekjoon/BOJ_9019.java) | [테스트](./src/test/java/baekjoon/BOJ9019Test.java) | [문제 링크](https://www.acmicpc.net/problem/9019) |
 | 골드 5 | 10026 | 적록색약 | [코드](./src/main/java/baekjoon/BOJ_10026.java) | [테스트](./src/test/java/baekjoon/BOJ10026Test.java) | [문제 링크](https://www.acmicpc.net/problem/10026) |
+| 골드 5 | 12865 | 평범한 배낭 | [코드](./src/main/java/baekjoon/BOJ_12865.java) | [테스트](./src/test/java/baekjoon/BOJ12865Test.java) | [문제 링크](https://www.acmicpc.net/problem/12865) |
 | 골드 5 | 16928 | 뱀과 사다리 게임 | [코드](./src/main/java/baekjoon/BOJ_16928.java) | [테스트](./src/test/java/baekjoon/BOJ16928Test.java) | [문제 링크](https://www.acmicpc.net/problem/16928) |
 | 골드 5 | 1916 | 최소비용 구하기 | [코드](./src/main/java/baekjoon/BOJ_1916.java) | [테스트](./src/test/java/baekjoon/BOJ1916Test.java) | [문제 링크](https://www.acmicpc.net/problem/1916) |
 | 골드 5 | 1931 | 회의실 배정 | [코드](./src/main/java/baekjoon/BOJ_1931.java) | [테스트](./src/test/java/baekjoon/BOJ1931Test.java) | [문제 링크](https://www.acmicpc.net/problem/1931) |
