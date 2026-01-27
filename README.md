@@ -106,6 +106,7 @@
 | 브론즈 1 | 14626 | ISBN | [코드](./src/main/java/baekjoon/bronze/BOJ_14626.java) | [테스트](./src/test/java/baekjoon/bronze/BOJ14626Test.java) | [문제 링크](https://www.acmicpc.net/problem/14626) |
 | 브론즈 2 | 2309 | 일곱 난쟁이 | [코드](./src/main/java/baekjoon/bronze/BOJ_2309.java) | [테스트](./src/test/java/baekjoon/bronze/BOJ2309Test.java) | [문제 링크](https://www.acmicpc.net/problem/2309) |
 | 브론즈 2 | 2750 | 수 정렬하기 | [코드](./src/main/java/baekjoon/bronze/BOJ_2750.java) | [테스트](./src/test/java/baekjoon/bronze/BOJ2750Test.java) | [문제 링크](https://www.acmicpc.net/problem/2750) |
+| 브론즈 5 | 15727 | 조별과제를 하려는데 조장이 사라졌다 | [코드](./src/main/java/baekjoon/bronze/BOJ_15727.java) | [테스트](./src/test/java/baekjoon/bronze/BOJ15727Test.java) | [문제 링크](https://www.acmicpc.net/problem/15727) |
 
 
 ## ✅ 프로그래머스 (Programmers)
