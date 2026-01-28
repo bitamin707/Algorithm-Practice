@@ -67,6 +67,7 @@
 | 실버 2 | 18870 | 좌표 압축 | [코드](./src/main/java/baekjoon/silver/BOJ_18870.java) | [테스트](./src/test/java/baekjoon/silver/BOJ18870Test.java) | [문제 링크](https://www.acmicpc.net/problem/18870) |
 | 실버 2 | 1927 | 최소 힙 | [코드](./src/main/java/baekjoon/silver/BOJ_1927.java) | [테스트](./src/test/java/baekjoon/silver/BOJ1927Test.java) | [문제 링크](https://www.acmicpc.net/problem/1927) |
 | 실버 2 | 21736 | 헌내기는 친구가 필요해 | [코드](./src/main/java/baekjoon/silver/BOJ_21736.java) | [테스트](./src/test/java/baekjoon/silver/BOJ21736Test.java) | [문제 링크](https://www.acmicpc.net/problem/21736) |
+| 실버 2 | 24444 | 알고리즘 수업 - 너비 우선 탐색 1 | [코드](./src/main/java/baekjoon/silver/BOJ_24444.java) | [테스트](./src/test/java/baekjoon/silver/BOJ24444Test.java) | [문제 링크](https://www.acmicpc.net/problem/24444) |
 | 실버 2 | 2630 | 색종이 만들기 | [코드](./src/main/java/baekjoon/silver/BOJ_2630.java) | [테스트](./src/test/java/baekjoon/silver/BOJ2630Test.java) | [문제 링크](https://www.acmicpc.net/problem/2630) |
 | 실버 2 | 2805 | 나무 자르기 | [코드](./src/main/java/baekjoon/silver/BOJ_2805.java) | [테스트](./src/test/java/baekjoon/silver/BOJ2805Test.java) | [문제 링크](https://www.acmicpc.net/problem/2805) |
 | 실버 2 | 30804 | 과일 탕후루 | [코드](./src/main/java/baekjoon/silver/BOJ_30804.java) | [테스트](./src/test/java/baekjoon/silver/BOJ30804Test.java) | [문제 링크](https://www.acmicpc.net/problem/30804) |
