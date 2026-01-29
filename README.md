@@ -46,6 +46,7 @@
 | 실버 1 | 2178 | 미로 탐색 | [코드](./src/main/java/baekjoon/silver/BOJ_2178.java) | [테스트](./src/test/java/baekjoon/silver/BOJ2178Test.java) | [문제 링크](https://www.acmicpc.net/problem/2178) |
 | 실버 1 | 2504 | 괄호의 값 | [코드](./src/main/java/baekjoon/silver/BOJ_2504.java) | [테스트](./src/test/java/baekjoon/silver/BOJ2504Test.java) | [문제 링크](https://www.acmicpc.net/problem/2504) |
 | 실버 1 | 2667 | 단지번호붙이기 | [코드](./src/main/java/baekjoon/silver/BOJ_2667.java) | [테스트](./src/test/java/baekjoon/silver/BOJ2667Test.java) | [문제 링크](https://www.acmicpc.net/problem/2667) |
+| 실버 1 | 32711 | 홀수로 나누기 | [코드](./src/main/java/baekjoon/silver/BOJ_32711.java) | [테스트](./src/test/java/baekjoon/silver/BOJ32711Test.java) | [문제 링크](https://www.acmicpc.net/problem/32711) |
 | 실버 1 | 5525 | IOIOI | [코드](./src/main/java/baekjoon/silver/BOJ_5525.java) | [테스트](./src/test/java/baekjoon/silver/BOJ5525Test.java) | [문제 링크](https://www.acmicpc.net/problem/5525) |
 | 실버 1 | 7562 | 나이트의 이동 | [코드](./src/main/java/baekjoon/silver/BOJ_7562.java) | [테스트](./src/test/java/baekjoon/silver/BOJ7562Test.java) | [문제 링크](https://www.acmicpc.net/problem/7562) |
 | 실버 1 | 9465 | 스티커 | [코드](./src/main/java/baekjoon/silver/BOJ_9465.java) | [테스트](./src/test/java/baekjoon/silver/BOJ9465Test.java) | [문제 링크](https://www.acmicpc.net/problem/9465) |
