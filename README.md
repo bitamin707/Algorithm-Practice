@@ -106,6 +106,7 @@
 | 난이도 | 문제 번호 | 제목 | 코드 | 테스트 | 링크 |
 |--------|-----------|------|------|--------|---|
 | 브론즈 1 | 14626 | ISBN | [코드](./src/main/java/baekjoon/bronze/BOJ_14626.java) | [테스트](./src/test/java/baekjoon/bronze/BOJ14626Test.java) | [문제 링크](https://www.acmicpc.net/problem/14626) |
+| 브론즈 1 | 1681 | 줄 세우기 | [코드](./src/main/java/baekjoon/bronze/BOJ_1681.java) | [테스트](./src/test/java/baekjoon/bronze/BOJ1681Test.java) | [문제 링크](https://www.acmicpc.net/problem/1681) |
 | 브론즈 2 | 2309 | 일곱 난쟁이 | [코드](./src/main/java/baekjoon/bronze/BOJ_2309.java) | [테스트](./src/test/java/baekjoon/bronze/BOJ2309Test.java) | [문제 링크](https://www.acmicpc.net/problem/2309) |
 | 브론즈 2 | 2750 | 수 정렬하기 | [코드](./src/main/java/baekjoon/bronze/BOJ_2750.java) | [테스트](./src/test/java/baekjoon/bronze/BOJ2750Test.java) | [문제 링크](https://www.acmicpc.net/problem/2750) |
 | 브론즈 5 | 15727 | 조별과제를 하려는데 조장이 사라졌다 | [코드](./src/main/java/baekjoon/bronze/BOJ_15727.java) | [테스트](./src/test/java/baekjoon/bronze/BOJ15727Test.java) | [문제 링크](https://www.acmicpc.net/problem/15727) |
