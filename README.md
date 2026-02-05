@@ -85,6 +85,7 @@
 | 실버 3 | 2108 | 통계학 | [코드](./src/main/java/baekjoon/silver/BOJ_2108.java) | [테스트](./src/test/java/baekjoon/silver/BOJ2108Test.java) | [문제 링크](https://www.acmicpc.net/problem/2108) |
 | 실버 3 | 2579 | 계단 오르기 | [코드](./src/main/java/baekjoon/silver/BOJ_2579.java) | [테스트](./src/test/java/baekjoon/silver/BOJ2579Test.java) | [문제 링크](https://www.acmicpc.net/problem/2579) |
 | 실버 3 | 2606 | 바이러스 | [코드](./src/main/java/baekjoon/silver/BOJ_2606.java) | [테스트](./src/test/java/baekjoon/silver/BOJ2606Test.java) | [문제 링크](https://www.acmicpc.net/problem/2606) |
+| 실버 3 | 34927 | 박스 쌓기 | [코드](./src/main/java/baekjoon/silver/BOJ_34927.java) | [테스트](./src/test/java/baekjoon/silver/BOJ34927Test.java) | [문제 링크](https://www.acmicpc.net/problem/34927) |
 | 실버 3 | 9095 | 1, 2, 3 더하기 | [코드](./src/main/java/baekjoon/silver/BOJ_9095.java) | [테스트](./src/test/java/baekjoon/silver/BOJ9095Test.java) | [문제 링크](https://www.acmicpc.net/problem/9095) |
 | 실버 3 | 9375 | 패션왕 신해빈 | [코드](./src/main/java/baekjoon/silver/BOJ_9375.java) | [테스트](./src/test/java/baekjoon/silver/BOJ9375Test.java) | [문제 링크](https://www.acmicpc.net/problem/9375) |
 | 실버 3 | 9461 | 파도반 수열 | [코드](./src/main/java/baekjoon/silver/BOJ_9461.java) | [테스트](./src/test/java/baekjoon/silver/BOJ9461Test.java) | [문제 링크](https://www.acmicpc.net/problem/9461) |
